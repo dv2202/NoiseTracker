@@ -22,7 +22,7 @@ code {
   align-items: center;
   font-weight: bold;
   font-size: 100px;
-  flex-direction: row;
+  flex-direction: column;
   background-color: rgb(77, 48, 48);
 }
 .disclaimer{
